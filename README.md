@@ -33,9 +33,7 @@ Write a function that sorts an array of integers in ascending order using the Qu
 
 4. Shell sort - Knuth Sequence
 
-6. Counting sort
-
-Write a function that sorts an array of integers in ascending order using the Counting sort algorithm
+Write a function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence
 
 
 5. Cocktail shaker sort
