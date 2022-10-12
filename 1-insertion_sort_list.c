@@ -46,7 +46,7 @@ void insertion_sort_list(listint_t **list)
 				four->prev = two;
 			three->next = two;
 			three->prev = one;
-			if (one)
+         		if (one)
 				one->next = three;
 			else
 				*list = three;
@@ -59,4 +59,3 @@ void insertion_sort_list(listint_t **list)
 			curr = curr->next;
 	}
 }
-
