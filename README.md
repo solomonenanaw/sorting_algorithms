@@ -43,3 +43,6 @@ Write a function that sorts an array of integers in ascending order using the Co
 Write a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm
 
 Write a function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence
+7. Merge sort
+
+Write a function that sorts an array of integers in ascending order using the Merge sort algorithm
