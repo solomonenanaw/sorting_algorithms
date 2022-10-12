@@ -13,3 +13,7 @@ What is the Big O notation, and how to evaluate the time complexity of an algori
 How to select the best sorting algorithm for a given input
 
 What is a stable sorting algorithm
+
+
+0. Bubble sort
+Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
