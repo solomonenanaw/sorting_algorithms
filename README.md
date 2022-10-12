@@ -33,4 +33,8 @@ Write a function that sorts an array of integers in ascending order using the Qu
 
 4. Shell sort - Knuth Sequence
 
+5. Cocktail shaker sort
+
+Write a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm
+
 Write a function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence
