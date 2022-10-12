@@ -37,7 +37,7 @@ void bubble_sort(int *array, size_t size)
 		{
 			if (array[i - 1] > array[i])
 			{
-																			swap_values(&array, i - 1, i);
+				swap_values(&array, i - 1, i);
 				print_array(array, size);
 				new_n = i;
 			}
